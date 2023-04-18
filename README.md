@@ -1,3 +1,3 @@
 # snake-ai
 
-![Alt Text](./out.gif)
+![Alt Text](./animation/out.gif)
